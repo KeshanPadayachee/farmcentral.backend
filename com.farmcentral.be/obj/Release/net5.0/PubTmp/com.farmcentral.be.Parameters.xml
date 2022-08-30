@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="APIFarmCentral" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Studies\\Varsity\ College\\Year\ 3\\Semester\ 1\\PROG7311\ -\ Programming\ 3A\\Portfolio\ Of\ Evidence\\Task\ 2\\src\\v2\\com\.farmcentral\.be\\com\.farmcentral\.be\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
